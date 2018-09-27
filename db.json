@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Waterbuck, defassa","category":"Fuscia"},
+{"id":2,"name":"Parakeet, rose-ringed","category":"Blue"},
+{"id":3,"name":"Madagascar fruit bat","category":"Maroon"},
+{"id":4,"name":"Mynah, indian","category":"Crimson"},
+{"id":5,"name":"Greater rhea","category":"Khaki"},
+{"id":6,"name":"Hornbill, southern ground","category":"Yellow"},
+{"id":7,"name":"Galapagos sea lion","category":"Fuscia"},
+{"id":8,"name":"Australian spiny anteater","category":"Goldenrod"},
+{"id":9,"name":"Common goldeneye","category":"Maroon"},
+{"id":10,"name":"Black-fronted bulbul","category":"Puce"},
+{"id":11,"name":"Indian leopard","category":"Red"},
+{"id":12,"name":"Malabar squirrel","category":"Khaki"},
+{"id":13,"name":"Roseat flamingo","category":"Red"},
+{"id":14,"name":"Cockatoo, roseate","category":"Khaki"},
+{"id":15,"name":"Common waterbuck","category":"Teal"},
+{"id":16,"name":"Whip-tailed wallaby","category":"Khaki"},
+{"id":17,"name":"Dolphin, common","category":"Purple"},
+{"id":18,"name":"Lizard, desert spiny","category":"Yellow"},
+{"id":19,"name":"Indian star tortoise","category":"Khaki"},
+{"id":20,"name":"House crow","category":"Orange"}
+]
+}
